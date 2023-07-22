@@ -1,0 +1,14 @@
+.Reply{
+    max-width: 80%;
+    border-radius: 12px;
+    padding: 1.5%;
+}
+
+.CommentedTweet{
+    display: flex;
+    margin: auto;
+    width: 75%;
+    border: 3px solid gray;
+    border-radius: 20px;
+    padding: 10px;
+}

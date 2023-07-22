@@ -1,0 +1,8 @@
+/.idea/
+.vscode/
+
+Api/.idea/
+Api/target/
+
+Web/node_modules/
+Mobile/node_modules/

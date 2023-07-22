@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "TwitterG5",
+    "slug": "TwitterG5",
+    "version": "1.0.0"
+  }
+}
